@@ -1,0 +1,26 @@
+#tekst 
+	{
+		max-width: 100%;
+		height:auto;
+	}
+
+#img1 
+	{
+		width: 48%;
+		height:auto;
+		float: left;
+		margin-left: 1%;
+	}
+
+
+#img2 
+	{
+		width: 48%;
+		height:auto;
+		float: right;
+		margin-right: 1%;
+	}
+
+
+
+
